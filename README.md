@@ -9,5 +9,6 @@ The DoView Legacy App is a legacy Windows app that is now free to use. However, 
 - Information on DoView Boards https://doviewplanning.org
 - A collection of DoView Boards https://github.com/doviewplanning/official-doview-board-collection
 - We are encouraging developers to incorporate DoView Boards into other projects, information for them is at: https://github.com/doviewplanning/official-doview-boards.
+## Get in touch
 - Information on projects we would like to collaborate with others on https://doviewplanning.org/collaborate.
 - To get in touch, contact us at https://doviewplanning.org/contact.

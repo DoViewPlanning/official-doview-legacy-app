@@ -1,3 +1,13 @@
-# DoViewApp
-DoView App
-The DoView App is a legacy app. You are better to build from the DoView Boards open source project https://github.com/DoViewPlanning/doview-boards
+# DoView Legacy App
+##Official site
+This is the official repository for the DoView Legacy App
+##The DoView Legacy App
+The DoView Legacy App is an app designed to visualize outcomes for planning, implementation and reporting of any type of organization or initiative
+##Now Replaced by DoView Boards
+The DoView Legacy App is a legacy Windows app that is now free to use. However, it is better to use the open-source AI-created HTML single-file DoView Boards. These include many more features than the original DoView Legacy App on which they are based. DoView Boards answer the 20 key questions that need to be answered for anyone running, having oversight of, or wanting to understand any organization, policy, strategy, research domain or initiative. See:
+
+- Information on DoView Boards https://doviewplannng.org
+- A collection of DoView Boards https://github.com/official-doview-board-collection
+- Information for developers we encourage to incorporate DoView Boards into other projects https://github.com/DoViewPlanning/official-doview-boards.
+- Information on projects we would like to collaborate with others on https://doviewplanning.org/collaborate.
+- To get in touch, contact us at https://doviewplanning.org/contact.
